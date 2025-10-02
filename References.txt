@@ -1,0 +1,6 @@
+References.txt
+--------------
+
+1. Luo, R. et al. (2022). Simulating high-time resolution radio-telescope observations.
+2. Chengalur, J. N. et al. (2024). SPOTLIGHT: A Probe of the Fast Radio Transient Sky. URSI-RCRS 2024, ARIES/GEHU, Bhimtal, India, 22-25 October, 2024.
+3. Panda, U. et al. (2025). SPOTLIGHT: A Transformative Exploration of the Fast Radio Transient Sky with the GMRT. URSI AP-RASC, Sydney, Australia, 17–22 August 2025.
